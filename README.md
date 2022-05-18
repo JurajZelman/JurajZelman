@@ -1,10 +1,6 @@
 ### Hello there 👋
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
 class QuantitativeDeveloper:
     def __init__(self):
         self.name = "Juraj Zelman"
@@ -36,7 +32,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Numpy-777BB4?style=flat&logo=numpy&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Pandas-2C2D72?style=flat&logo=pandas&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-scikit_learn-F7931E?style=for-the-badge?style=flat&logo=scikit-learn&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Scikit_learn-F7931E?style=for-the-badge?style=flat&logo=scikit-learn&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Nextcloud-0082C9?style=flat&logo=Nextcloud&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
