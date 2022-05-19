@@ -1,16 +1,18 @@
 ### Hello there 👋
 
 ```python
+# About me
+
 class QuantitativeDeveloper:
     def __init__(self):
         self.name = "Juraj Zelman"
         self.role = "Quantitative Developer & Quantitative Finance Student"
-        self.uni = "ETH Zurich & UZH"
+        self.uni = "ETH Zürich & UZH"
 
     def get_academic_interests(self):
         self.math = "Stochastic Optimal Control, Stochastic Analysis, SDEs"
-        self.computer_science = "Reinforcement Learning, Deep Learning"
-        return f"{self.math} and {self.computer_science}"
+        self.comp_science = "Reinforcement Learning, Deep Learning"
+        return f"{self.math} and {self.comp_science}"
 
     def say_hi(self):
         print("Thanks for stopping by, hope you find some of my work interesting!")
