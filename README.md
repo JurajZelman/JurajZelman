@@ -9,7 +9,7 @@ class QuantitativeDeveloper:
         self.role = "Quantitative Developer & Quantitative Finance Student"
         self.uni = "ETH Zürich & UZH"
 
-    def get_academic_interests(self):
+    def get_interests(self):
         self.math = "Math. Finance, Statistics, Numerical Methods, Optimal Control"
         self.comp_science = "Statistical Learning, (Deep) Reinforcement Learning"
         self.finance = "Statistical Arbitrage, Market Making, Portfolio Optimization"
