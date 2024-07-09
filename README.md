@@ -3,10 +3,10 @@
 ```python
 # About me
 
-class QuantitativeDeveloper:
+class QuantitativeResearcher:
     def __init__(self):
         self.name = "Juraj Zelman"
-        self.role = "Quantitative Developer & Quantitative Finance Student"
+        self.role = "Quantitative Researcher"
         self.uni = "ETH Zürich & UZH"
 
     def get_interests(self):
@@ -19,7 +19,7 @@ class QuantitativeDeveloper:
         print("Thanks for stopping by, hope you find some of my work interesting!")
 
 
-me = QuantitativeDeveloper()
+me = QuantitativeResearcher()
 me.say_hi()
 ```
 
