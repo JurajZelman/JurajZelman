@@ -5,7 +5,7 @@ class QuantitativeResearcher:
     def __init__(self):
         self.name = "Juraj Zelman"
         self.role = "Quantitative Researcher"
-        self.uni = "ETH Zürich & UZH"
+        self.uni = "ETH Zürich & UZH, Charles University"
 
     def get_interests(self):
         self.finance = "Alpha Research, Market Making, Portfolio Optimization"
@@ -21,7 +21,7 @@ me = QuantitativeResearcher()
 me.say_hi()
 ```
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=5E81AC)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=5E81AC)
